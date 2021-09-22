@@ -1,6 +1,7 @@
 # ApplicationSubmission
 리크봇 V5에서 사용할 수 있는 앱들의 제출을 받아요!
 모든 앱은 Discord.py V1.7.3을 기반으로 개발되어야 하며, 모듈이나 플러그인은 5개 이상의 Star 및 제작한지 1주 이상 되었다면 어떤 것이나 가능합니다.
+<a href="https://discord.gg/BJuMdGZKjF">이 서버</a>에 가입하시면 디버깅이 가능합니다.
 
 ## 개발 및 신청 수속
 ### 개발환경 구성
